@@ -1,12 +1,12 @@
 # Welcome to My Github! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evanputra1&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>
 
 ### About Me
 
 - 👋 Hi, I’m Evan Ananda Putra!
 - 👀 I’m interested in PHP & Javascript
 - 🌱 I’m currently learning Laravel, Angular...
+- ⚡ Want to Married 2D Anime Girl
 
 ### My Top Languages
 
@@ -27,3 +27,9 @@
 <img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" alt="Jquery" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" />
 <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+
+
+<br><br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evanputra1&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>

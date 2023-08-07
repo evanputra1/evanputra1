@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Laravel, Angular...
 - ⚡ Want to Married 2D Anime Girl
 
-### My Top Languages
+### Languages
 
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -32,4 +32,10 @@
 <br><br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evanputra1&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=evanputra1&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+<br><br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evanputra1&label=Profile%20views&color=0e75b6&style=flat"/> </p>

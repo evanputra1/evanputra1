@@ -39,4 +39,8 @@
 <br><br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evanputra1&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<div align="left">
+  
+  [![](https://visitcount.itsvg.in/api?id=evanputra1&label=Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+  
+</div>

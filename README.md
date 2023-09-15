@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Evan Ananda Putra!
 - 👀 I’m interested in PHP & Javascript
-- 🌱 I’m currently learning Laravel, Angular...
+- 🌱 I’m currently learning Laravel, React...
 - ⚡ Want to Married 2D Anime Girl
 
 ### Languages

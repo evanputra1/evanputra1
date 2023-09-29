@@ -37,9 +37,9 @@
 ### ✉ Let's connect!
 
 
-<a href="https://www.facebook.com/evan.putra.90663" target="blank"><img align="left" alt="Facebook" width="25" src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" /></a>
-<a href="https://www.instagram.com/evan._putra/" target="blank"><img align="left" alt="Instagram" width="25" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" /></a>
-<a href="https://www.linkedin.com/in/evan-ananda-putra-056176222/" target="blank"><img align="left" alt='Linkedin' src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="25" /></a>
+<a href="https://www.facebook.com/evan.putra.90663" target="_blank"><img align="left" alt="Facebook" width="25" src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" /></a>
+<a href="https://www.instagram.com/evan._putra/" target="_blank"><img align="left" alt="Instagram" width="25" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" /></a>
+<a href="https://www.linkedin.com/in/evan-ananda-putra-056176222/" target="_blank"><img align="left" alt='Linkedin' src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="25" /></a>
 
 
 <br />

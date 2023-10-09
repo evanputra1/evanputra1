@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Evan Ananda Putra!
 - 🏝️ I live in Bekasi Utara, Kota Bekasi, Indonesia.
-- 👀 I’m interested in PHP & Javascript
+- 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Laravel, Next & React...
 - ⚡ Want to Married 2D Anime Girl
 - 📫 You can reach me at <a href="mailto:evanputra2508@gmail.com">evanputra2508@gmail.com</a>

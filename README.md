@@ -10,7 +10,7 @@
 - ⚡ Want to Married 2D Anime Girl
 - 📫 You can reach me at <a href="mailto:evanputra2508@gmail.com">evanputra2508@gmail.com</a>
 
-### Languages
+<!-- ### Languages
 
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -28,10 +28,10 @@
 
 <img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" alt="Jquery" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> -->
 
 
-<br><br>
+<br>
 
 
 ### ✉ Let's connect!

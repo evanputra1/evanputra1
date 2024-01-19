@@ -4,7 +4,7 @@
 ### About Me
 
 - 👋 Hi, I’m Evan Ananda Putra!
-- 🏝️ I live in Bekasi Utara, Kota Bekasi, Indonesia.
+- 🏝️ I live in North Bekasi, Bekasi City, Indonesia.
 - 👀 I’m interested in PHP & Javascript
 - 🌱 I’m currently learning Laravel, Next & React...
 - ⚡ Want to Married 2D Anime Girl

@@ -1,14 +1,13 @@
-# Welcome to My Github! 👋
+# Welcome to My Profile! 👋
 
 
 ### About Me
 
 - 👋 Hi, I’m Evan Ananda Putra!
-- 🏝️ I live in North Bekasi, Bekasi City, Indonesia.
-- 👀 I’m interested in Javascript
+- 🏝️ I live in Indonesia.
 - 🌱 I’m currently learning NextJS...
 - 📫 You can reach me at <a href="mailto:evanputra2508@gmail.com">evanputra2508@gmail.com</a>
-
+<!-- - 👀 I’m interested in Javascript -->
 ### Languages
 
 
